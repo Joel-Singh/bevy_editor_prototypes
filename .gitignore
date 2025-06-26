@@ -20,3 +20,4 @@ Cargo.lock
 
 # mdbook generated files
 design-book/book
+.direnv
